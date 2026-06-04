@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://fuzzyos.com/assets/images/logo_text_light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://fuzzyos.com/assets/images/logo_text_dark.svg">
-  <img alt="FuzzyOS" src="https://fuzzyos.com/assets/images/logo_text_dark.svg" height="96">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://fuzzyos.com/assets/images/logo_text_light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://fuzzyos.com/assets/images/logo_text_dark.svg">
+    <img alt="FuzzyOS" src="https://fuzzyos.com/assets/images/logo_text_dark.svg" height="96">
+  </picture>
+</div>
 
 **A minimal terminal coding harness — adapt fuzzy to your workflows, not the other way around.**
 
