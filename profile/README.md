@@ -58,3 +58,7 @@ Then set your API key and run `fuzzy` to start.
 ## Contact
 
 [contact@fuzzyos.com](mailto:contact@fuzzyos.com) · [fuzzyos.com](https://fuzzyos.com)
+
+---
+
+*FuzzyOS is inspired by [Pi](https://pi.dev/) — a minimal terminal coding harness by Earendil Inc.*
